@@ -16,7 +16,7 @@ What is the total purchases for each storestate sold?
 
 What is the most purchased cosmetic? 
 
-how many times was it purchased?
+How many times was it purchased?
 
 How many orders did each client make and which client  made  more orders?
 
