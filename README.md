@@ -38,4 +38,3 @@ Orders
 Store state
  The state which each store is located.
 
-We will go ahead and analyse the data using SQL(postgre)
