@@ -7,13 +7,21 @@ As a data analyst your job is to analyze the data and give insights to be used t
 CASE STUDY QUESTIONS
 
 What is the total count of each client and products?
+
 What is the total amount each  client spent ?
+
 What is the total order each client  made?
+
 What is the total purchases for each storestate sold?
+
 What is the most purchased cosmetic? 
+
 how many times was it purchased?
+
 How many orders did each client make and which client  made  more orders?
+
 Which storestate has the highest sales?
+
 what is the total purchases?
 
 These are the column headers that will be used to analyse the product and each will be briefly described for easy understanding as w ego along.
