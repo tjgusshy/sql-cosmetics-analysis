@@ -32,12 +32,12 @@ Product codes
  
 Price
 
--The price of each product.
+- The price of each product.
 
 Clients
 
 - The name of clients that partronised the organisation.
-- 
+
 Client code
 
 A distinct identifier for each clients.
