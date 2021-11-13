@@ -4,7 +4,7 @@ Esther Cosmetic incorporation has been gathering their data  to know what factor
 
 As a data analyst your job is to analyze the data and give insights to be used to derive  data-driven  decision,  the analysis will be done using postgresql. 
 
-CASE STUDY QUESTIONS
+> CASE STUDY QUESTIONS
 
 What is the total count of each client and products?
 
@@ -45,6 +45,7 @@ A distinct identifier for each clients.
 Orders
 
 - The orders made by each client
+
 Store state
 
 - The state which each store is located.
