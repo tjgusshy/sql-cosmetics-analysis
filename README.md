@@ -26,23 +26,26 @@ what is the total purchases?
 
 These are the column headers that will be used to analyse the product and each will be briefly described for easy understanding as w ego along.
 
-Product Codes
-Price
-Client
-Client Code
-Orders
-Store State
-
 Product codes
- This is the product code of each product
+
+- This is the product code of each product.
+ 
 Price
-The price of each product
+
+-The price of each product.
+
 Clients
-The name of clients that partronised the organisation
+
+- The name of clients that partronised the organisation.
+- 
 Client code
-A distinct identifier for each clients
+
+A distinct identifier for each clients.
+
 Orders
- The orders made by each client
+
+- The orders made by each client
 Store state
- The state which each store is located.
+
+- The state which each store is located.
 
